@@ -8,7 +8,6 @@
 ## Ícones (Google Icons / MaterialUI):
 - [CalendarClock](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/calendar_clock.svg)
 - [Demography](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/demography.svg)
-- [CurrencyYuan](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/currency_yuan.svg)
 - [MoneyBag](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/money_bag.svg)
 - [Monitoring](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/money_bag.svg)
 - [PersonCheck](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/person_check.svg)
