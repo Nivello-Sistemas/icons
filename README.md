@@ -1,4 +1,4 @@
-# design Patterns
+# Design Patterns:
 
 ## Logos:
 - [LogoB2C](https://b2clubstorage.blob.core.windows.net/shared/front-end/logos/logo_b2c_primary.png)
