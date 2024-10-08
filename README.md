@@ -13,3 +13,6 @@
 - [PersonCheck](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/person_check.svg)
 - [UserAttributes](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/user_attributes.svg)
 - [MintMark](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/mintmark.svg)
+- [GroupSearch](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/group_search.svg)
+- [Trophy](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/trophy.svg)
+- [FlagCheck](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/flag_check.svg)
