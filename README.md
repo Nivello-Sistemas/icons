@@ -12,3 +12,4 @@
 - [Monitoring](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/money_bag.svg)
 - [PersonCheck](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/person_check.svg)
 - [UserAttributes](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/user_attributes.svg)
+- [MintMark](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/mintmark.svg)
