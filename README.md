@@ -18,3 +18,7 @@
 - [FlagCheck](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/flag_check.svg)
 - [RewardedAds](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/rewarded_ads.svg)
 - [AwardStar](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/award_star.svg)
+- [Logout](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/logout.svg)
+- [PersonEdit](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/person_edit.svg)
+- [RoomPreferences](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/room_preferences.svg)
+- [Settings](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/settings.svg)
