@@ -16,3 +16,5 @@
 - [GroupSearch](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/group_search.svg)
 - [Trophy](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/trophy.svg)
 - [FlagCheck](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/flag_check.svg)
+- [RewardedAds](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/rewarded_ads.svg)
+- [AwardStar](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/award_star.svg)
