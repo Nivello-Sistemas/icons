@@ -22,3 +22,4 @@
 - [PersonEdit](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/person_edit.svg)
 - [RoomPreferences](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/room_preferences.svg)
 - [Settings](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/settings.svg)
+- [KeyboardReturn](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/keyboard_return.svg)
