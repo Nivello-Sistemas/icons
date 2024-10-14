@@ -23,3 +23,9 @@
 - [RoomPreferences](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/room_preferences.svg)
 - [Settings](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/settings.svg)
 - [KeyboardReturn](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/keyboard_return.svg)
+- [ChartPie](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/ChartPie.svg)
+- [Gem](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/Gem.svg)
+- [House](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/House.svg)
+- [Lybera](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/Lybera.svg)
+- [Store](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/Store.svg)
+
