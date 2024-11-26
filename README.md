@@ -29,3 +29,7 @@
 - [Lybera](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/Lybera.svg)
 - [Store](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/Store.svg)
 
+## Ícones Personalizados:
+- [VideoTutorial](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/video-tutorial.svg)
+
+
