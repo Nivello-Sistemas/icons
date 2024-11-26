@@ -31,5 +31,10 @@
 
 ## Ícones Personalizados:
 - [VideoTutorial](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/video-tutorial.svg)
+- [BrandsInstagram](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/fi-brands-instagram.svg)
+- [CircleUser](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/fi-rr-circle-user.svg)
+- [Link](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/fi-rr-link.svg)
+- [UsersAlt](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/fi-rr-users-alt.svg)
+- [UserSettings](https://b2clubstorage.blob.core.windows.net/shared/front-end/icons/user_settings.svg)
 
 
